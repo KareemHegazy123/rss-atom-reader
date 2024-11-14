@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/index.html"
     },
     {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/wwwroot/istockphoto-1328182974-640x640.jpg",
+      "PackagePath": "staticwebassets/istockphoto-1328182974-640x640.jpg"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.RssAtomReader.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

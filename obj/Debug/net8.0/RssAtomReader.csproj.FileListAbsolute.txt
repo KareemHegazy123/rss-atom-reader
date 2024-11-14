@@ -69,3 +69,4 @@
 /home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/obj/Debug/net8.0/RssAtomReader.pdb
 /home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/obj/Debug/net8.0/RssAtomReader.genruntimeconfig.cache
 /home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/obj/Debug/net8.0/ref/RssAtomReader.dll
+/home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/obj/Debug/net8.0/RssAtomReader.sourcelink.json

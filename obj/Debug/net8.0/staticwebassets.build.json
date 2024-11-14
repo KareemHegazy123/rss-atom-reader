@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XnrR16g9aTHYchM91Ukahsx3tnnRsqJ/5h3ND5878s8=",
+  "Hash": "+nwIo7yBXMjMtpnC07Gmo93J5RtfYVzzzcAQ3+3Iw0k=",
   "Source": "RssAtomReader",
   "BasePath": "_content/RssAtomReader",
   "Mode": "Default",
@@ -34,6 +34,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/wwwroot/istockphoto-1328182974-640x640.jpg",
+      "SourceId": "RssAtomReader",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/wwwroot/",
+      "BasePath": "_content/RssAtomReader",
+      "RelativePath": "istockphoto-1328182974-640x640.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/istockphoto-1328182974-640x640.jpg"
     }
   ]
 }
