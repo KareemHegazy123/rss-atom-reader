@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "XnrR16g9aTHYchM91Ukahsx3tnnRsqJ/5h3ND5878s8=",
+  "Source": "RssAtomReader",
+  "BasePath": "_content/RssAtomReader",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RssAtomReader/wwwroot",
+      "Source": "RssAtomReader",
+      "ContentRoot": "/home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/wwwroot/",
+      "BasePath": "_content/RssAtomReader",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/wwwroot/index.html",
+      "SourceId": "RssAtomReader",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/wwwroot/",
+      "BasePath": "_content/RssAtomReader",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

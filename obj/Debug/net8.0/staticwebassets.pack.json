@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/kareem/Desktop/SKT/Assignments/Assignment_6/RssAtomReader/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.RssAtomReader.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.RssAtomReader.props",
+      "PackagePath": "build\\RssAtomReader.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RssAtomReader.props",
+      "PackagePath": "buildMultiTargeting\\RssAtomReader.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RssAtomReader.props",
+      "PackagePath": "buildTransitive\\RssAtomReader.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
